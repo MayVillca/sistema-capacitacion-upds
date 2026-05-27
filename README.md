@@ -1,6 +1,6 @@
 # Sistema de Gestión Académica — Centro de Capacitación
 
-Proyecto universitario desarrollado para la materia de Ingeniería de Software.  
+Proyecto universitario desarrollado para la materia de Sistema de Informacion III  
 Universidad Privada Domingo Savio (UPDS) — Tarija, Bolivia.
 
 ---
