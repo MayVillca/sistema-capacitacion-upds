@@ -10,9 +10,9 @@ Universidad Privada Domingo Savio (UPDS) — Tarija, Bolivia.
 | Integrante | Rol en el proyecto |
 |---|---|
 | May Villca | Líder técnica / Backend |
-| Micaela [apellido] | Frontend / Interfaces |
-| Joel [apellido] | Backend / Base de datos |
-| Adriann [apellido] | Frontend / Pruebas |
+| Micaela Perez | Frontend / Interfaces |
+| Joel Manguia| Backend / Base de datos |
+| Adrian Calizaya| Frontend / Pruebas |
 
 ---
 
