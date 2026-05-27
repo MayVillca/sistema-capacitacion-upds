@@ -9,6 +9,7 @@ con cálculo automático del estado final (Aprobado/Reprobado) por estudiante.
 **Materia:** Sistemas de Información III  
 **Universidad:** Universidad Privada Domingo Savio — UPDS Tarija  
 **Equipo:** Mayra Villca Mendez · Micaela Perez Vasquez · Joel Manguia Sanchez · Adrian Calizaya
+
 **Fecha:** Mayo 2026  
 
 ---
